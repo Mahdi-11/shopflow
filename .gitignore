@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+
+# Base de données
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Rapports
+junit-report.xml
+junit-integration.xml
